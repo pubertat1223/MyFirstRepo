@@ -1,4 +1,4 @@
 # MyFirstRepo  
 This is my first repository on GitHub.  
-- **Author**: Your Name  
+- **Author**: Glib  
 - **Purpose**: Learning GitHub basics  
